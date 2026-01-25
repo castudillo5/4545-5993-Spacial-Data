@@ -8,7 +8,7 @@
 
 #### Image:
 
-<img src="https://imgbox.com/gallery/edit/9kiB6jQLEX/uLseq6pykNcvIfAB" width="200">
+<img src="https://imgbox.com/OkmJdni0" width="200">
 
 #### Avatar:
 
