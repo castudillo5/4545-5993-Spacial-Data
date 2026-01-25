@@ -10,4 +10,4 @@
 
 #### Avatar:
 
-<img src="https://images2.imgbox.com/ae/bd/tERTAGTL_o.png" width="75">
+<img src="![898E3B70-ACED-41D9-A380-14D9BE875D15](https://github.com/user-attachments/assets/4a305919-f6a2-4f10-af4a-e9498347dc15)" width="75">
