@@ -4,11 +4,9 @@
 
 #### Email: castudillo00@gmail.com
 
-#### Website: https://en.wikipedia.org/wiki/Albert_Einstein
-
 #### Image:
 
-<img src="https://imgbox.com/OkmJdni0" width="200">
+<img src="" width="200">
 
 #### Avatar:
 
