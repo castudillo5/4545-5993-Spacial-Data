@@ -1,3 +1,21 @@
+%%writefile sample.txt
 Arsenal
 Man City
 Liverpool
+Bournemouth
+Chelsea
+Tottenham
+Sunderland
+Crystal Palace
+Man United
+Brighton
+Aston Villa
+Everton
+Brentford
+Newcastle
+Fulham
+Leeds United
+Burnley
+Nottingham Forest
+West Ham
+Wolves
