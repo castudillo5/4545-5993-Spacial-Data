@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Assignments/02-Missile_Geometry_202/src/wdo/viz_map_",
+        "./Assignments/02-Missile_Geometry_202/src/wdo/viz_map_",
+        "./Assignments/01-Python_Foundations/04-Foundations/Lessons/03-Work_With_Files/4545-5993-Spacial-Data/Assignments/02-Missile_Geometry_202/src/wdo/viz_map_"
+    ]
+}
